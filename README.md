@@ -13,6 +13,7 @@ Please find the most common Linux commands in the files:
 
    * Linux basic Command.pdf
    * linux_help.pdf
+   * other sources
 
 
                                      ## The quieter you become, the more you are able to hear ##
